@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="/Users/thagreatfikshun/Documents/development/project_flutter/flutter_push_notifications/android/app"
+    name=":app"
+    type="APP"
+    maven="android:app:"
+    gradle="7.1.2"
+    buildFolder="/Users/thagreatfikshun/Documents/development/project_flutter/flutter_push_notifications/build/app"
+    bootClassPath="/Users/thagreatfikshun/Library/Android/sdk/platforms/android-34/android.jar:/Users/thagreatfikshun/Library/Android/sdk/build-tools/30.0.3/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-34">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

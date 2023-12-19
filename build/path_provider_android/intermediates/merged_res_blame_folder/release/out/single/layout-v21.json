@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/thagreatfikshun/Documents/development/project_flutter/flutter_push_notifications/build/path_provider_android/intermediates/merged_res/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/thagreatfikshun/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/thagreatfikshun/Documents/development/project_flutter/flutter_push_notifications/build/path_provider_android/intermediates/merged_res/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/thagreatfikshun/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/thagreatfikshun/Documents/development/project_flutter/flutter_push_notifications/build/path_provider_android/intermediates/merged_res/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/thagreatfikshun/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/thagreatfikshun/Documents/development/project_flutter/flutter_push_notifications/build/path_provider_android/intermediates/merged_res/release/layout-v21/notification_action.xml",
+        "source": "/Users/thagreatfikshun/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/layout-v21/notification_action.xml"
+    }
+]

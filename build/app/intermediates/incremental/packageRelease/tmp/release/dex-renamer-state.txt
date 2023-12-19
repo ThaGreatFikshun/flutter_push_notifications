@@ -1,0 +1,4 @@
+#Mon Dec 18 14:32:56 EAT 2023
+base.0=/Users/thagreatfikshun/Documents/development/project_flutter/flutter_push_notifications/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
